@@ -1,0 +1,7 @@
+[theme] # You have to add this line
+
+primaryColor = '#FF8C02' # couleur selectionnee
+
+backgroundColor = '#e3dbdc' # fond decran
+
+secondaryBackgroundColor = '#8ccfc4' # side bar
